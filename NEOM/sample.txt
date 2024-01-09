@@ -1,0 +1,4 @@
+sample text file
+edited in subtree of main repo
+editing
+testing with git-ignore
