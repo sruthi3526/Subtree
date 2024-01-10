@@ -2,3 +2,4 @@
 this file is in test branch of tenant repo
 testing git_ignore
 changing file2.txt to check Jenkins
+checking without squash option
